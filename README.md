@@ -3,12 +3,12 @@
 Welcome to my Coding Journal! This is where I will track my growth into becoming a data analyst and a better coder.
 - I am fully aware that my journey here is still a work in progress, but I believe that I've made a good connection with this new skill. 
 - P.S. My profile is open for criticism and recommendations to help me improve my coding skills.
-- Current Skillset: 🐍 Python &  📈 Tableau 
+- Current Skillset: 🐍 Python, 📈 Tableau, SQL, R, & NLP 
 
 
 Other Facts About Me: 
 
--  🌱 Coming Soon (May 2021): "The Sheer Joy of Coding" 
+-  🌱 Coming Soon (May 2022): "The Sheer Joy of Coding" 
 
 
 -  🌎 Marketing Intern at Raise Green (Doing passion projects using Python)
