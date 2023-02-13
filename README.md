@@ -8,7 +8,7 @@ Welcome to my Coding Journal! This is where I will track my growth into becoming
 
 Other Facts About Me: 
 
--  🌱 Coming Soon (May 2022): "The Sheer Joy of Coding" 
+-  🌱 Coming Soon (2023): "The Sheer Joy of Coding" 
 
 
 -  🌎 Marketing Intern at Raise Green (Doing passion projects using Python)
