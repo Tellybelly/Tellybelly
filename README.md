@@ -11,7 +11,7 @@ Other Facts About Me:
 -  🌱 Coming Soon (2023): "The Sheer Joy of Coding" 
 
 
--  🌎 Marketing Intern at Raise Green (Doing passion projects using Python)
+-  🌎 Marketing Data Analyst at Raise Green (Doing passion projects using Python)
 -  Raise Green is 1st green crowd-investing portal in the United States dedicated to climate solutions and open to all investors, whether you’re looking to invest thousands in clean energy or your first $100. We help all people to use the power of their capital to create direct change.
 
 
